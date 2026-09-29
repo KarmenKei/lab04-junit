@@ -1,18 +1,24 @@
 # Lab 04 — JUnit 5 нэгжийн тест
 
-**Нэр:** <таны нэр>
-**Код:** <таны оюутны код>
+**Нэр:** Ц.Бэлгүтэй
+**Код:** B232270053
 
 ## java -version
 
 ```
-<java -version 2>&1 командын гаралт>
+openjdk version "23.0.2" 2025-01-21
+OpenJDK Runtime Environment Homebrew (build 23.0.2)
+OpenJDK 64-Bit Server VM Homebrew (build 23.0.2, mixed mode, sharing)
 ```
 
 ## mvn -version
 
 ```
-<mvn -version командын гаралт>
+Apache Maven 3.9.9 (8e8579a9e76f7d015ee5ec7bfcdc97d260186937)
+Maven home: /opt/homebrew/Cellar/maven/3.9.9/libexec
+Java version: 23.0.2, vendor: Homebrew, runtime: /opt/homebrew/Cellar/openjdk/23.0.2/libexec/openjdk.jdk/Contents/Home
+Default locale: en_US, platform encoding: UTF-8
+OS name: "mac os x", version: "14.5", arch: "aarch64", family: "mac"
 ```
 
 ## Үр дүн
